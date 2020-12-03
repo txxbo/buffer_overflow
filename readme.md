@@ -1,6 +1,8 @@
 # Buffer Overflow Steps
 
-1. Setup target ip and port in config.json
+I'll improve these instructions soon.
+
+1. Setup target ip and port in config.py
 
 2. Setup your ip and a port you will be listening on 
 
